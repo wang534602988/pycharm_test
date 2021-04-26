@@ -1,2 +1,2 @@
 # pycharm_test
-使用pycharm进行数据可视化的一些案例
+使用pycharm和powerBI爬取app权限数据进行可视化展示
